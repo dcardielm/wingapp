@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Orders</string>
+
+    <string name="category_history">History</string>
+
+    <string name="category_estimates">Estimates</string>
+
+    <string-array name="flavors_array">
+        <item>Lemon Pepper</item>
+        <item>Spicy Lemon Pepper</item>
+        <item>Buffalo</item>
+        <item>Spicy Buffalo</item>
+    </string-array>
+
+</resources>
